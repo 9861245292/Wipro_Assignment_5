@@ -1,0 +1,16 @@
+tar: Removing leading `/' from member names
+tar: /home/arpit/Documents: Cannot stat: No such file or directory
+tar: Exiting with failure status due to previous errors
+Sat Nov  8 06:45:14 UTC 2025: Backup completed successfully.
+tar: Removing leading `/' from member names
+tar: /home/arpit/Documents: Cannot stat: No such file or directory
+tar: Exiting with failure status due to previous errors
+Sat Nov  8 06:45:26 UTC 2025: Backup completed successfully.
+tar: Removing leading `/' from member names
+tar: /home/arpit/Documents: Cannot stat: No such file or directory
+tar: Exiting with failure status due to previous errors
+Sat Nov  8 06:46:48 UTC 2025: Backup completed successfully.
+tar: Removing leading `/' from member names
+tar: /home/arpit/Documents: Cannot stat: No such file or directory
+tar: Exiting with failure status due to previous errors
+Sat Nov  8 06:48:30 UTC 2025: Backup completed successfully.
